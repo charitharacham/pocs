@@ -1,0 +1,1 @@
+aws-deletion-monitor
