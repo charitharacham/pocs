@@ -40,8 +40,6 @@ aws-deletion-monitor/
 │   └── outputs.tf         # Resource ARNs and Names
 ├── lambda/
 │   └── lambda_function.py # Python 3.12 Serverless logic
-├── README.md              # Project overview and deployment guide
-└── POC_DOCUMENTATION.md   # Deep dive architecture and security info
 ```
 
 ## Prerequisites
